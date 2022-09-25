@@ -8,7 +8,7 @@
 - In the terminal navigate to where you've extracted your files and run the tf executable to check if it's working.
 
 ### Connecting to remote repository and cloning it to your system:
-- In your azure Devops project, navigate to your personal authentication tokens page and generate a token for the TEE-CLC client to use for connecting to your repository.
+- Follow [this guide](https://learn.microsoft.com/en-us/visualstudio/mac/tf-version-control?view=vsmac-2019) For initial setup
 
 
 
