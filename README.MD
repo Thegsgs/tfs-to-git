@@ -1,4 +1,3 @@
-
 ## Working with TFVC on macos using "Team explorer everywhere command line client" (TEE-CLC) (No longer supported but recommended by Microsoft):
 
 ### Installation:
