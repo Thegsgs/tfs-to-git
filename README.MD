@@ -16,7 +16,7 @@
     2. Set your environment to not prompt your tee-clc credentials more than once: `export TF_AUTO_SAVE_CREDENTIALS=1`
     3. Create a new workspace locally and connect it to your remote repository: `tf {workspace-name} -new MyWorkspace -collection:https://dev.azure.com/MyOrganization` 
     4. Map your newly created workspace to your local directory with with workfold command: 
-    `tf workfold -map $/{remote-repo-name} -workspace:{workspace-name} ~/{Local-direcroty}`
+    `tf workfold -map $/{remote-repo-name} -workspace:{workspace-name} ~/{local-directory}`
     5. Get all files from remote repository: `tf get`
     All files should now appear in your local directory
 
