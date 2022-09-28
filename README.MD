@@ -22,9 +22,10 @@
 
 - Checking-in changes
     1. Makes changes in your local directory such as creating a new file or modifying an exsiting one.
-    2. Make sure your terminal path is at the topmost level of your working dir and add files to staging: `tf add`
-    3. Checkin your changes to the remote repository: `tf checkin -comment:"Initial commit"`
-    4. Your changes should now appear in the remote repository.
+    2. You can use `tf status` to view pending changes
+    3. Make sure your terminal path is at the topmost level of your working dir and add files to staging: `tf add`
+    4. Checkin your changes to the remote repository: `tf checkin -comment:"Initial commit"`
+    5. Your changes should now appear in the remote repository.
 
 - Working with branches
 
