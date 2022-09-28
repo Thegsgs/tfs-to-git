@@ -1,4 +1,0 @@
-abcd
-shachar
-test
-1
